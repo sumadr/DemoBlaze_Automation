@@ -1,2 +1,2 @@
-# DemoBlaze_Automation
+# DemoBlaze_Automation_TypeScript
 Automation_Project_Playwright
